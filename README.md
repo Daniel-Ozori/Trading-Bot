@@ -1,6 +1,4 @@
 # Trading-Bot
-A Trading Bot made in python to interact and trade with the Binance and Testnet API
-
 A simple trading script to trade cryptocurrency using the Bincance API, it is meant solely for testing purposes only.
 
 It works my monitoring the price data and calculating the rsi value.
